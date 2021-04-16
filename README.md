@@ -24,6 +24,7 @@ Have a look at the following screenshots to see some examples of what can be see
 ## Tools
 
 * Leaflet
+* GeoJSON
 * D3
 * JavaScript
 * API Calls (MapBox, USGS)
